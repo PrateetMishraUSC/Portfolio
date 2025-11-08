@@ -1,0 +1,10 @@
+node_modules/
+dist/
+build/
+.DS_Store
+.env*
+*.pem
+*.ppk
+id_rsa
+id_ed25519*
+
